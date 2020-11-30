@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="HUE10_Good_Version">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/htmllexer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/htmlparser.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
